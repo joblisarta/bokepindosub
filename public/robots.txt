@@ -9,4 +9,4 @@ Allow: /category/*
 
 
 
-Sitemap: https://bokepindosub.pages.dev/sitemap-index.xml
+Sitemap: https://bokepindosub.pages.dev/sitemap.xml
